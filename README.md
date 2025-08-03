@@ -19,7 +19,7 @@ This is a simple Image Classifier app built using MIT App Inventor. It allows us
 Download the `.apk` file and install it on your Android phone. Make sure you allow unknown sources.
 
 ## Demo
-![App Screenshot](screenshot.png)
+![App Screenshot](Image_Classifier.jpg)
 
 ## Author
 Sanjeev D
