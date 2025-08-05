@@ -12,8 +12,8 @@ This is a simple Image Classifier app built using MIT App Inventor. It allows us
 - Google Teachable Machine (for model training)
 
 ## Files
-- `ImageClassifierApp.aia`: Editable project source
-- `ImageClassifierApp.apk`: Installable Android file
+- `MLImageClassifier.aia.zip`: Editable project source
+- `base.apk`: Installable Android file
 
 ## Installation
 Download the `.apk` file and install it on your Android phone. Make sure you allow unknown sources.
